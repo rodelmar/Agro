@@ -1,0 +1,13 @@
+C:\Users\kira_\source\repos\EmpresaAgroalimentaria\EmpresaAgroalimentaria\bin\Debug\netcoreapp3.1\EmpresaAgroalimentaria.exe
+C:\Users\kira_\source\repos\EmpresaAgroalimentaria\EmpresaAgroalimentaria\bin\Debug\netcoreapp3.1\EmpresaAgroalimentaria.deps.json
+C:\Users\kira_\source\repos\EmpresaAgroalimentaria\EmpresaAgroalimentaria\bin\Debug\netcoreapp3.1\EmpresaAgroalimentaria.runtimeconfig.json
+C:\Users\kira_\source\repos\EmpresaAgroalimentaria\EmpresaAgroalimentaria\bin\Debug\netcoreapp3.1\EmpresaAgroalimentaria.runtimeconfig.dev.json
+C:\Users\kira_\source\repos\EmpresaAgroalimentaria\EmpresaAgroalimentaria\bin\Debug\netcoreapp3.1\EmpresaAgroalimentaria.dll
+C:\Users\kira_\source\repos\EmpresaAgroalimentaria\EmpresaAgroalimentaria\bin\Debug\netcoreapp3.1\EmpresaAgroalimentaria.pdb
+C:\Users\kira_\source\repos\EmpresaAgroalimentaria\EmpresaAgroalimentaria\obj\Debug\netcoreapp3.1\EmpresaAgroalimentaria.csprojAssemblyReference.cache
+C:\Users\kira_\source\repos\EmpresaAgroalimentaria\EmpresaAgroalimentaria\obj\Debug\netcoreapp3.1\EmpresaAgroalimentaria.AssemblyInfoInputs.cache
+C:\Users\kira_\source\repos\EmpresaAgroalimentaria\EmpresaAgroalimentaria\obj\Debug\netcoreapp3.1\EmpresaAgroalimentaria.AssemblyInfo.cs
+C:\Users\kira_\source\repos\EmpresaAgroalimentaria\EmpresaAgroalimentaria\obj\Debug\netcoreapp3.1\EmpresaAgroalimentaria.csproj.CoreCompileInputs.cache
+C:\Users\kira_\source\repos\EmpresaAgroalimentaria\EmpresaAgroalimentaria\obj\Debug\netcoreapp3.1\EmpresaAgroalimentaria.dll
+C:\Users\kira_\source\repos\EmpresaAgroalimentaria\EmpresaAgroalimentaria\obj\Debug\netcoreapp3.1\EmpresaAgroalimentaria.pdb
+C:\Users\kira_\source\repos\EmpresaAgroalimentaria\EmpresaAgroalimentaria\obj\Debug\netcoreapp3.1\EmpresaAgroalimentaria.genruntimeconfig.cache
